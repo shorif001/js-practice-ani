@@ -1,0 +1,81 @@
+.btnAudio {
+  width: 100px;
+  height: 100px;
+}
+
+.animatBtn {
+  width: 100px;
+  height: 50px;
+  margin: 20px;
+}
+.anim {
+  box-shadow: 0 15px 18px 0 tomato;
+  opacity: 0.5;
+}
+
+.fForm {
+  margin: 15px;
+}
+
+.mouse-event {
+  height: 20rem;
+  width: 20rem;
+  background-color: tomato;
+}
+
+/* 
+.line{
+  margin-top: 12px;
+  width: 21%;
+  border: 1px solid green;
+}
+.line1{
+  margin-left: 400px;
+  margin-top: -2px;
+  width: 10%;
+  border: 1px solid gray;
+}
+
+
+.success-checkmark:after,
+.success-checkmark1:after,
+.success-checkmark2:after {
+  content: '✔';
+  position: absolute;
+  width: 20px; 
+  height: 20px;
+  text-align: center;
+  border: 1px solid green;
+  background: #fff;
+  border-radius: 50%;
+}
+.minus:after {
+  content: '−';
+  position: absolute;
+  width: 20px; 
+  height: 20px;
+  text-align: center;
+  border: 1px solid green;
+  background: #fff;
+  border-radius: 50%;
+}
+
+
+.success-checkmark:after{
+  left:0; top: 2px;
+}
+.success-checkmark1:after{
+  left:200px; top: 2px;
+}
+.success-checkmark2:after{
+  left:400px; top: 2px;
+}
+.minus:after{
+  left:600px; top: 2px;
+  font-weight:bolder;
+  opacity: 0.3;
+}
+
+hr.new-hr {
+  border: 1px solid red;
+} */
